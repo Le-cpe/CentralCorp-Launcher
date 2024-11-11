@@ -1,11 +1,11 @@
 {
-    "name": "Conflictura",
-    "preductname": "Conflictura Launcher",
-    "version": "3.0.0",
-    "description": "Conflictura modded server launcher",
+    "name": "Luminaria",
+    "preductname": "LuminariaLauncher",
+    "version": "1.0.0",
+    "description": "Luminaria officiel de Luminaria",
     "main": "src/app.js",
-    "author": "Riptiaz/Boulldogo/Vexato/Luuxis",
-    "settings": "https://dev.conflictura.eu",
+    "author": "Riptiaz/Boulldogo/Vexato/Luuxis/Minegame499",
+    "settings": "https://panel.playluminaria.fr",
     "engines": {
         "node": "16.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Riptiaz/CentralCorp-Launcher.git"
+        "url": "git+https://github.com/Le-cpe/LuminariaLauncher.git"
     }
 }
